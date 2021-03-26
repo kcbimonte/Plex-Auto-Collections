@@ -11,7 +11,7 @@ try:
     from plexapi.video import Show
     from plexapi.library import MovieSection
     from plexapi.library import ShowSection
-    from plexapi.library import Collections
+    from plexapi.collection import Collections
     from plex_tools import get_map
     from plex_tools import add_to_collection
     from plex_tools import delete_collection
